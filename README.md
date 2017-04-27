@@ -9,6 +9,7 @@ a nejméně nadějnou z lidí, které za celých dvacet let učil.
 [..] Kdyby bylo po jeho, vyučování i semináře by vedli sami studenti [..]
 Když se studenta zeptal, co si o něčem myslí, tak ho odpově opravdu zajímala.
 
+http://www.nytimes.com/books/98/09/27/specials/mcinerney-carver.html
 (Jay McInerney: Raymond Carver: A Still, Small Voice. New York: The New York Times Book Review 1989/8/6.)
 
 /* Jay McInerney. In: Raymond CARVER, O čem mluvíme, když mluvíme o lásce, Praha: Volvox Globator, 2016 (překl. J. Hrubý), (1. vyd.). */
