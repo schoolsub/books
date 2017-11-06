@@ -1,5 +1,12 @@
 # books
 
+>>
+Léna Brauner, MfD 6. 11. 2017
+Jsem už teď vyděšená mým okolím, kde děti začaly chodit do škol a jejich rodiče jsou nešťastní, že se jim změnily.
+<<
+
+==============================
+
 Když jsem mu kdysi vyčítal, že je moc hodný na studenta, který podle mého názoru
 odváděl mizernou práci, vyprávěl mi toto: Nedávno byl v porotě prestižní literární
 soutěže. Jednomyslně to vyhrála nějaká žena a ukázalo se, že je to jeho bývalá
